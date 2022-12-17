@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmvogt0
 - 👀 I’m interested in Visual and Responsive Webprogramming
-- 🌱 I’m currently learning Laravel and Flutter
+- 🌱 I’m currently learning Laravel and Swift
 - 📫 How to reach me: https://www.linkedin.com/in/jan-vogt-a545bb1b8 
 
 <!---
